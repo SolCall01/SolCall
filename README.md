@@ -24,6 +24,7 @@ Your voice, your data, your control.
 All calls are end-to-end encrypted, and your wallet remains your identity.
 
 🔍 Learn more:
+
 Website: www.solcall.club
 
 X: https://x.com/SolCall01
