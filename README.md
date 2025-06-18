@@ -25,7 +25,9 @@ All calls are end-to-end encrypted, and your wallet remains your identity.
 
 🔍 Learn more:
 Website: www.solcall.club
+
 X: https://x.com/SolCall01
+
 X Com: https://x.com/i/communities/1935056464982196573
 
 Welcome to the future of decentralized communication. Welcome to SolCall.
